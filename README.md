@@ -11,11 +11,8 @@ Password: 123
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/wNG8GQ3/HOME-PAGE.png)
 
 ![App Screenshot](https://i.ibb.co/Tvqtdm5/LOGIN-PAGE.png)
-
-![App Screenshot](https://i.ibb.co/hXXxt0X/BOOKING-HISTORY-PAGE-1.png)
 
 ![App Screenshot](https://i.ibb.co/5j5WWSr/CONTACT-US-PAGE.png)
 
