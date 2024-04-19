@@ -3,11 +3,6 @@
 DirectDrive is a website project for car rental service where you can rent cars.
 
 
-## Downloads
-
-[![Downloads]([https://img.shields.io/github/downloads/vinay-jaiswar/directdrive/directdrive/total.svg](https://img.shields.io/github/downloads/vinay-jaiswar/directdrive/total))](https://github.com/vinay-jaiswar/directdrive/archive/refs/tags/v1.0.zip)
-
-
 ## Demo
 
 Username: demo@gmail.com  
